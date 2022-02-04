@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Use below command to use create-react-app instead of default npx create-react-app my-app
+Use below command to use create-react-app instead of default npx create-react-app my-app.  ------------      
 npx create-react-app@latest my-app --use-npm
 
 ## Available Scripts
